@@ -1,0 +1,44 @@
+name = "Jake Gyllenhaal"
+description = "Accomplished actor, captivating with versatility and charisma."
+keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
+image = "jake.webp"
+theme = "dark"
+primary_color = "#d81b60"
+text_align = "center"
+gtag_id = "G-33WB8LVHR6"
+
+[[sections]]
+title = "Movies"
+description = "Here are some of my movies"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Nightcrawler"
+description = "A mesmerizing thriller delving into the dark world of crime journalism"
+url = "https://www.imdb.com/title/tt2872718/"
+[[sections.items]]
+title = "Brokeback Mountain"
+description = "A groundbreaking romantic drama challenging societal expectations"
+url = "https://www.imdb.com/title/tt0388795/"
+[[sections.items]]
+title = "Prisoners"
+description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
+url = "https://www.imdb.com/title/tt1392214/"
+
+[[sections]]
+title = "Links"
+description = "Look for me on these websites"
+direction = "row"
+item_style = "filled"
+[[sections.items]]
+title = "Instagram"
+url = "https://www.instagram.com/jakegyllenhaal"
+[[sections.items]]
+title = "IMDb"
+url = "https://www.imdb.com/name/nm0350453/"
+[[sections.items]]
+title = "Wikipedia"
+url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+[[sections.items]]
+title = "Rotten Tomatoes"
+url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"

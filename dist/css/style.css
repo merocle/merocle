@@ -1,0 +1,28 @@
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  objet-fit: cover;
+  margin-bottom: var(--typography-spacing-vertical);
+}
+
+.section {
+  margin-bottom: var(--block-spacing-vertical);
+}
+
+.items {
+  display: flex;
+  column-gap: var(--spacing);
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+[role="button"] > hgroup {
+  margin-bottom: 0;
+}
+
+[role="button"] {
+  margin-bottom: var(--spacing);
+  width: 100%;
+}

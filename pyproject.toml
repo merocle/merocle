@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "jake"
+version = "0.1.0"
+description = "Effortlessly create and deploy your own one-link website on GitHub."
+authors = ["Vahid Al <thevahidal@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tinyhtml = "^1.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
