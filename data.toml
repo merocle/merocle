@@ -13,6 +13,10 @@ description = ""
 direction = "column"
 item_style = "outline"
 [[sections.items]]
+title = "Lemony Ai"
+description = "True Private Ai"
+url = "https://lemony.ai/"
+[[sections.items]]
 title = "Uptime Lab"
 description = "My blog"
 url = "https://uplab.pro/"
