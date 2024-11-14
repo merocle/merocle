@@ -17,6 +17,10 @@ title = "Lemony Ai"
 description = "True Private Ai"
 url = "https://lemony.ai/"
 [[sections.items]]
+title = "My Linkedin"
+description = "Let's keep in touch over there, shall we?"
+url = "https://www.linkedin.com/in/merocle/"
+[[sections.items]]
 title = "Uptime Lab"
 description = "My blog"
 url = "https://uplab.pro/"
